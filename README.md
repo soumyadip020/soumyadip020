@@ -1,5 +1,4 @@
-# 💫 About Me:
-i am currently working on ai agents  my area of intelligence is  javascript and  node and java <br>
+
 
 
 ## 🌐 Socials:
